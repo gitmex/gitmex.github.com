@@ -11,7 +11,7 @@ tagline: Where brownian motion goes to die
 			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 		</div>
 
-		<div class="postContent">
+		<div class="postText">
 	    	{{ post.content }}
 		</div>
 	</div>

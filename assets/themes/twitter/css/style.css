@@ -36,6 +36,18 @@ html, body {
   border: 0;
 }
 
+.postContainer {
+	
+}
+
+.postHeader {
+	background-color: #bbbbbb;
+}
+
+.postText {
+	background-color: #eeeeee;
+}
+
 
 /* tag_box ======================================================== */
 
