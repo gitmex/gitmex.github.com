@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Indexing!
+tagline: Where brownian motion goes to die
 ---
 {% include JB/setup %}
 
