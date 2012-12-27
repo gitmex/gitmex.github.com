@@ -176,7 +176,7 @@ No styleguide reference.
 /* GLOBAL
 --------------------------------------------------------------------------------- */
 html {
-  background-color: #ffffff;
+  background-color: #294c6a;
   color: #2d2d2d;
 }
 /* LINK */
@@ -218,7 +218,7 @@ pre {
   margin: 0;
 }
 .the-header .logo a:visited {
-  color: #004a6b;
+  color: #294c6a;
 }
 .the-header .nav-global {
   text-transform: uppercase;
