@@ -16,7 +16,7 @@ html, body {
 .content {
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
-  outline: 1px dashed #98abb9;
+  outline: 1px dashed #283b49;
   outline-offset: -5px;
      
   background-color: #8c8c8c;
