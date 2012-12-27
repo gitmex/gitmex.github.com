@@ -42,6 +42,8 @@ html, body {
 
 .postHeader {
 	background-color: #bbbbbb;
+	margin: 10px;
+	text-shadow: 1px 1px 1px #000;
 }
 
 .postText {
