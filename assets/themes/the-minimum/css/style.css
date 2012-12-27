@@ -240,6 +240,7 @@ pre {
 }
 .unit-article header h1 {
   color: #d2d2d2;
+  text-shadow: 1px 2px 2px #094909;
   margin-top: 0;
   margin-bottom: 0;
 }
