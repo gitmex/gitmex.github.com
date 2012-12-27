@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Indexing!
+title: gitmex!
 tagline: Where brownian motion goes to die
 ---
 {% include JB/setup %}
