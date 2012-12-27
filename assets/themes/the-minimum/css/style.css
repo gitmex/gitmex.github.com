@@ -218,7 +218,7 @@ pre {
   margin: 0;
 }
 .the-header .logo a:visited {
-  color: #7899B4;
+  color: #294c6a;
 }
 .the-header .nav-global {
   text-transform: uppercase;
@@ -233,13 +233,13 @@ pre {
   background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #294c6a;
+  background-color: #7899B4;
   margin-bottom: 1.625em;
   padding-top: 1.625em;
   padding-bottom: 1.625em;
 }
 .unit-article header h1 {
-  color: #d2d2d2;
+  color: #6B2D12;
   text-shadow: 1px 2px 2px #090909;
   margin-top: 0;
   margin-bottom: 0;
