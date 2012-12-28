@@ -44,6 +44,7 @@ html, body {
 .postContainer {
 	padding: 15px;
 	font-size: 16px;
+	border-bottom: 1px dashed #283b49;
     
 }
 
@@ -52,7 +53,6 @@ html, body {
 	text-shadow: 1px 1px 1px #999;
 	font-size: 20px;
 	color:#000;
-	border-bottom: 1px dashed #283b49;
 }
 
 .postText {
