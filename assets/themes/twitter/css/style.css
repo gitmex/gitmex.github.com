@@ -52,7 +52,7 @@ html, body {
 	text-shadow: 1px 1px 1px #999;
 	font-size: 20px;
 	color:#000;
-	outline-bottom: 1px dashed #283b49;
+	border-bottom: 1px dashed #283b49;
 }
 
 .postText {
